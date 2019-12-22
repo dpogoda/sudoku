@@ -1,0 +1,3 @@
+# sudoku
+
+Simple sudoku implementation
